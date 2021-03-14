@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 public class BoardDTO {
 
-	/** 번호 (PK) */
+	/** 번호 (PK)  */
 	private Long idx;
 
 	/** 제목 */
